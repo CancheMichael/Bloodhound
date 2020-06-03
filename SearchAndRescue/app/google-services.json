@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "764634993686",
+    "firebase_url": "https://searchandrescue-208ae.firebaseio.com",
+    "project_id": "searchandrescue-208ae",
+    "storage_bucket": "searchandrescue-208ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764634993686:android:0012dededde0aed2abd137",
+        "android_client_info": {
+          "package_name": "edu.dartmouth.cs65.searchandrescue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764634993686-njqrfs3qo9d2m7cslef0tklrv5ovq37b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.dartmouth.cs65.searchandrescue",
+            "certificate_hash": "09dea0e51ecf1c9695095b4131e5902a52ac34cb"
+          }
+        },
+        {
+          "client_id": "764634993686-rjovef1rq6hrhgobdg4dsffn348s216f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByk35IH1t4oRDkSwJj2e46ImhU-TPM_hs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764634993686-rjovef1rq6hrhgobdg4dsffn348s216f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,2 @@
+rootProject.name='SearchAndRescue'
+include ':app', ':android-crop-1.0.1', ':universal-image-loader-1.9.5', ':calligraphy3-3.0.0'

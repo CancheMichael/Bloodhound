@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Bloodhound</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="password">Password</string>
+    <string name="major">Major</string>
+    <string name="dartmouth_class">Dartmouth Class</string>
+    <string name="radiobutton">RadioButton</string>
+    <string name="name">Name</string>
+    <string name="register">REGISTER</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="change">CHANGE</string>
+    <string name="action_register">Register</string>
+    <string name="profile">Profile</string>
+    <string name="prof_name">Profile name</string>
+    <string name="prof_pass">Profile password</string>
+    <string name="prof_email">Profile email</string>
+    <string name="prof_phone">Profile phone</string>
+    <string name="prof_major">Profile major</string>
+    <string name="prof_class">Profile class</string>
+    <string name="prof_gender">Profile gender</string>
+    <string name="profile_picture">Profile picture</string>
+    <string name="prof_picture">Profile Picture</string>
+    <string name="action_save">SAVE</string>
+    <string name="prof_unit">profUnit</string>
+    <string name="activity">Activity</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="duration">Duration</string>
+    <string name="distance">Distance</string>
+    <string name="calorie">Calorie</string>
+    <string name="heartbeat">Heartbeat</string>
+    <string name="comment">Comment</string>
+    <string name="application_settings">Application Settings</string>
+    <string name="empty" />
+    <string name="unit_preference">Unit Preference</string>
+    <string name="webpage">Webpage</string>
+    <string name="account_settings">Account Settings</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="tab">\u000</string>
+    <string name="select_choices">Select Choices</string>
+    <string name="input_type">Input Type</string>
+    <string name="activity_type">Activity Type</string>
+    <string name="list">List</string>
+    <string name="action_delete">Delete</string>
+    <string-array name="input_array">
+        <item>Manual</item>
+        <item>GPS</item>
+        <item>Automatic</item>
+    </string-array>
+    <string-array name="units_array">
+        <item>Metric (Kilometers)</item>
+        <item>Imperial (Miles)</item>
+    </string-array>
+    <string-array name="activity_array">
+        <item>Running</item>
+        <item>Walking</item>
+        <item>Standing</item>
+        <item>Cycling</item>
+        <item>Hiking</item>
+        <item>Downhill Skiing</item>
+        <item>Cross-Country Skiing</item>
+        <item>Snowboarding</item>
+        <item>Skating</item>
+        <item>Swimming</item>
+        <item>Mountain Biking</item>
+        <item>Wheelchair</item>
+        <item>Elliptical</item>
+        <item>Other</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
