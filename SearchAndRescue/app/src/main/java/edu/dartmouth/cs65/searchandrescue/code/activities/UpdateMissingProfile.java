@@ -268,7 +268,7 @@ public class UpdateMissingProfile extends AppCompatActivity {
                                             path = uri.toString();
                                             prof.setPhoto(path);
                                             //Removes the existing person, as only one person is saved
-                                            mDatabase.child("codes").child(activeCode).child(originalPerson).removeValue();
+                                            //mDatabase.child("codes").child(activeCode).child(originalPerson).removeValue();
                                             mDatabase.child("codes").child(activeCode).child(prof.getName()).setValue(prof);
                                             Intent mainIntent = new Intent(UpdateMissingProfile.this,
                                                     MainActivity.class);
@@ -283,7 +283,7 @@ public class UpdateMissingProfile extends AppCompatActivity {
                     }
                     else {
                         //Removes the existing person, as only one person is saved
-                        mDatabase.child("codes").child(activeCode).child(originalPerson).removeValue();
+                        //mDatabase.child("codes").child(activeCode).child(originalPerson).removeValue();
                         mDatabase.child("codes").child(activeCode).child(prof.getName()).setValue(prof);
                         //Return to Main page
                         mainIntent = new Intent(UpdateMissingProfile.this,
