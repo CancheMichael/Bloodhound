@@ -1,6 +1,5 @@
 # Bloodhound
 
-Apk: https://drive.google.com/file/d/1L6QQ5lnkvXuc_tkwLA88eA2acVCedfwK/view
 
 Android application created for COSC 65: Smartphone Programming. 
 
